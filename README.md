@@ -35,5 +35,3 @@
     <marquee>¡Siente el sabor caribeño y diviértete bailando Salsa!</marquee>
      2025 Academia Estrella
   </footer>
-</body>
-</html>
