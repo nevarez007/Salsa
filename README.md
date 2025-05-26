@@ -1,4 +1,3 @@
-https://github.com/user-attachments/assets/938ea7cb-4e00-4f0c-8590-f11b723a9de1
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -29,7 +28,7 @@ Los movimientos y pasos de la salsa son una fusión de lo africano con lo europe
 
     <section>
       <h2>Video de clase</h2>
-      <video src="https://github.com/user-attachments/assets/56719109-e4bc-4f78-b680-052e19fe5a04" controls width="400"></video>
+      <video src="https://github.com/user-attachments/assets/938ea7cb-4e00-4f0c-8590-f11b723a9de1" controls width="400"></video>
     </section>
 
 
