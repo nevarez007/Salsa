@@ -26,10 +26,9 @@
 
     <section>
       <h2>Video de clase</h2>
-      <video src="https://github.com/user-attachments/assets/53fd476b-58c7-4e45-aea7-46180253baeb" controls width="400"></video>
+      <video src="https://github.com/user-attachments/assets/dda581b9-07ae-4b32-9ee0-8edc2d1312cd" controls width="400"></video>
     </section>
 
-    <section>
 
   <footer>
     <marquee>¡Siente el sabor caribeño y diviértete bailando Salsa!</marquee>
