@@ -18,31 +18,7 @@
     <section>
       <h2>¿Qué es la Salsa?</h2>
       <p>La salsa es un estilo de baile latinoamericano que combina influencias africanas y caribeñas. Se baila en pareja y se caracteriza por su ritmo rápido, movimientos de cadera y giros coordinados. ¡Perfecta para divertirse y hacer ejercicio!</p>
-      <img src="media/salsa.jpg" alt="Pareja bailando salsa" width="400">
-    </section>
-
-    <section>
-      <h2>Horarios y Precios</h2>
-      <table>
-        <tr>
-          <th>Día</th>
-          <th>Horario</th>
-          <th>Nivel</th>
-          <th>Precio mensual</th>
-        </tr>
-        <tr>
-          <td>Martes y Jueves</td>
-          <td>7:00 PM - 8:30 PM</td>
-          <td>Intermedios</td>
-          <td>$360</td>
-        </tr>
-        <tr>
-          <td>Viernes</td>
-          <td>6:00 PM - 7:30 PM</td>
-          <td>Principiantes</td>
-          <td>$320</td>
-        </tr>
-      </table>
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFRDmMZABkCdFMPOiPLHOiWwUe4tfOcJNLfDLJI-vDP79aS3DlTYiikJh32YvWfmPX57-B17-1zWakl9-yaqpwOVNIGqryWUANCagZtQJR_B_MVkwETQ55VwzDApiMAbLEusXePIAeGfWV/s1600/salsa.jpg" alt="Pareja bailando salsa" width="400">
     </section>
 
     <section>
@@ -50,13 +26,10 @@
 
     <section>
       <h2>Video de clase</h2>
-      <video src="media/salsa-video.mp4" width="400" controls></video>
+      <video src="https://github.com/user-attachments/assets/53fd476b-58c7-4e45-aea7-46180253baeb" controls width="400"></video>
     </section>
 
     <section>
-      <h2>Música típica de la Salsa</h2>
-      <audio src="media/salsa-musica.mp3" controls></audio>
-    </section>
   </main>
 
   <footer>
