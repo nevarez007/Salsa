@@ -30,7 +30,6 @@
     </section>
 
     <section>
-  </main>
 
   <footer>
     <marquee>¡Siente el sabor caribeño y diviértete bailando Salsa!</marquee>
